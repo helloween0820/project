@@ -18,15 +18,15 @@ sistemas3.style.display = "none";
 
 const textos = {
   perfil: {
-    titulo: "perfil",
+    titulo: "Perfil",
     desc: "aplicar el proceso de desarrollo de soluciones informaticas: evaluacion, gestión, planificacion, analisis, diseño, implantación, matenimiento, control y mercadeo. Definir y conceptualizar modelos y comportamientos de sistemas complejos, a partir de las teorías de las ciencias básicas y de la computación orientada al desarrollo de software. Participar en grupos interdisciplinarios de investigación y campo laboral, asumiendo una actitud de liderazgo, crítica, científica y ética, para desarrollar proyectos informáticos y de comunicaciones utilizando nuevas tecnologías.  ",
   },
   contenido: {
-    titulo: "contenido",
+    titulo: "Contenido",
     desc: "<li>ingenieria sistemas es la carrera del futuro.</li> <li>El programa de Ingeniería de Sistemas y Computación tiene como propósito la formación de profesionales capaces de interactuar con su entorno en el medio social, político y económico. Este ingeniero debe adquirir una preparación en el quehacer científico, tanto en el conocimiento de las ciencias básicas, como en el campo investigativo, para producir conocimiento y aplicarlo en el campo de los sistemas y la computación.</li> <li>Formar profesionales íntegros en ingeniería de sistemas y computación, capaces de proveer soluciones enmarcadas en conceptos de calidad a problemas del entorno, aplicando técnicas, métodos y herramientas acordes con los avances de la informática.</li><li>El programa de Ingeniería de Sistemas y Computación tiene como propósito la formación de profesionales capaces de interactuar con su entorno en el medio social, político y económico. Este ingeniero debe adquirir una preparación en el quehacer científico, tanto en el conocimiento de las ciencias básicas, como en el campo investigativo, para producir conocimiento y aplicarlo en el campo de los sistemas y la computación.</li> <li>la tecnología es la profesión del futuro</li>",
   },
   complemento: {
-    titulo: "complemento",
+    titulo: "Complemento",
     desc: "por ultimo queda por decir que la ingeniería de sistemas es una carrera que es muy rentable estudiar hoy en dia ya que el medio que mas se utiliza hoy en dia es el internet ya que es la forma por medio donde nos comunicamos a través de paginas web que se desarrollan mediante desarrolladores.  ",
   },
   links: {
