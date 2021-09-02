@@ -89,7 +89,7 @@ body {
 
 .menu li:hover {
   background-color: gainsboro;
-  color: darkslategrey;
+  color: '#1B2262';
 }
 
 .contenido {
