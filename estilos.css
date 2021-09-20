@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+  background-color: whitesmoke;
 }
 
 .container {
@@ -89,7 +90,7 @@ body {
 
 .menu li:hover {
   background-color: gainsboro;
-  color: '#1B2262';
+  color: "#1B2262";
 }
 
 .contenido {
